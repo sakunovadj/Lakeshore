@@ -1,6 +1,6 @@
 {
   "_base": "https://raw.githubusercontent.com/sakunovadj/breaks/main/",
-  "shade": "MO_MK_145_drum_loop_shade.wav",
-  "sncm": "MO_HA_140_synth_loop_caustics_Cmaj.wav",
-  "snpi": "MO_TC_122_songstarter_piano_down_catastrophic_Cmaj.wav"
+  "shore": "MO_AP_148_harmonizer_loop_full_beams_Amaj.wav",
+  "shore1": "MO_AP_fx_textural_phrase_binary.wav",
+  "shore2": "MO_AP_tonal_phrase_found_in_absence_Amaj.wav"
 }
