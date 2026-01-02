@@ -3,5 +3,8 @@
   "shade_lo": [
     "shade_lo/MO_LAN_178_synth_loop_its_alright_Amaj.wav",
     "shade_lo/MO_LAN_111_synth_loop_rain_Amaj.wav"
-  ]
+  ],
+  "shade_dr": [
+    "shade_dr/MO_LAN_120_drum_loop_dmx.wav",
+    "shade_dr/MO_LAN_130_drum_loop_prodrum64.wav"
 }
