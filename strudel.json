@@ -7,5 +7,8 @@
   "shade_dr": [
     "shade_dr/MO_LAN_120_drum_loop_dmx.wav",
     "shade_dr/MO_LAN_130_drum_loop_prodrum64.wav"
+  ],
+  "shade_pr": [
+    "91V_HT_145_drum_top_loop_energy.wav",
   ]
 }
